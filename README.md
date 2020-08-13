@@ -1,2 +1,6 @@
-# CollaborativeConversationAssistant
-runs alongside and assists conversations, mapping dictipedia nodes &amp; meanings, cocreating transcript, as raw material for derivative works
+# Collaborative Conversation Assistant
+- runs alongside and assists conversations, 
+- maps dictipedia nodes &amp; meanings, 
+- tracks speaker identities,
+- cocreates shared transcript, 
+as raw material for derivative works
