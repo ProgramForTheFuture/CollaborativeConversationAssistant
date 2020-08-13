@@ -5,3 +5,8 @@
 - cocreates shared transcript,  
 
 as raw material for derivative works
+
+- Can run on desktops
+  - as an app
+  - as a web app (in browser)
+- or mobile devices
